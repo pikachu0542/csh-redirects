@@ -4,61 +4,61 @@
 }
 
 alumnimap.csh.rit.edu {
-	redir https://members.csh.rit.edu/~bencentra/alumni-map/$1
+	redir https://members.csh.rit.edu/~bencentra/alumni-map{uri} permanent
 }
 
 application.csh.rit.edu {
-	redir https://docs.google.com/document/d/1nIZote5v8hvhJ16IlCHA3N_44hr5FnVCP5vO4WqgWSo/edit?usp=sharing
+	redir https://docs.google.com/document/d/1nIZote5v8hvhJ16IlCHA3N_44hr5FnVCP5vO4WqgWSo/edit?usp=sharing permanent
 }
 
 calendar.csh.rit.edu {
-	redir https://www.google.com/calendar/embed?src=rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com&ctz=America/New_York
+	redir https://www.google.com/calendar/embed?src=rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com&ctz=America/New_York permanent
 }
 
 chom.csh.rit.edu {
-	redir https://www.youtube.com/watch?v=zocRi2JaAyU
+	redir https://www.youtube.com/watch?v=zocRi2JaAyU permanent
 }
 
 donate.csh.rit.edu {
-	redir https://securelb.imodules.com/s/1624/index-giving.aspx?sid=1624&gid=1&pgid=705&cid=1466&fid=1466&gfid=800&bledit=1&dids=169
+	redir https://securelb.imodules.com/s/1624/index-giving.aspx?sid=1624&gid=1&pgid=705&cid=1466&fid=1466&gfid=800&bledit=1&dids=169 permanent
 }
 
 enforcement.csh.rit.edu, enforcementguidelines.csh.rit.edu {
-	redir https://docs.google.com/spreadsheets/d/1-GqLrfIXvPquWrr33p_Zr8IwUp-xUyCcDHDC-Up6hDQ/edit?usp=sharing
+	redir https://docs.google.com/spreadsheets/d/1-GqLrfIXvPquWrr33p_Zr8IwUp-xUyCcDHDC-Up6hDQ/edit?usp=sharing permanent
 }
 
 hss.csh.rit.edu {
-	redir https://docs.google.com/presentation/d/1LakYFVz0EB6d5wRnC1zgDWru1Q5nK-BQJTyv3h8Al0Q/edit?usp=sharing
+	redir https://docs.google.com/presentation/d/1LakYFVz0EB6d5wRnC1zgDWru1Q5nK-BQJTyv3h8Al0Q/edit?usp=sharing permanent
 }
 
 imps.csh.rit.edu {
-	redir https://docs.google.com/spreadsheets/d/1JG2NbeU3tFX_eyU8ttWFVy41CNyUJmZps_obGilS5a0
+	redir https://docs.google.com/spreadsheets/d/1JG2NbeU3tFX_eyU8ttWFVy41CNyUJmZps_obGilS5a0 permanent
 }
 
 insights.csh.rit.edu {
-	redir http://csh.rit.edu/insights.html
+	redir http://csh.rit.edu/insights.html permanent
 }
 
 membershipagreement.csh.rit.edu {
-	redir https://csh.rit.edu/~chef/membershipagreement.pdf
+	redir https://csh.rit.edu/~chef/membershipagreement.pdf permanent
 }
 
 merch.csh.rit.edu {
-	redir https://campusgroups.rit.edu/store?store_id=3173
+	redir https://campusgroups.rit.edu/store?store_id=3173 permanent
 }
 
 segfault.csh.rit.edu {
-	redir https://gallery.csh.rit.edu/view/dir/698
+	redir https://gallery.csh.rit.edu/view/dir/698 permanent
 }
 
 slack.csh.rit.edu {
-	redir https://cshrit.slack.com
+	redir https://cshrit.slack.com permanent
 }
 
 spending.csh.rit.edu {
-	redir https://docs.google.com/spreadsheets/d/1zLA7CWt1rNgeqwUCiex5-iofAZ-DndgqPAxM3FzKmhY/edit?usp=sharing
+	redir https://docs.google.com/spreadsheets/d/1zLA7CWt1rNgeqwUCiex5-iofAZ-DndgqPAxM3FzKmhY/edit?usp=sharing permanent
 }
 
 zoom.csh.rit.edu {
-	redir https://rit.zoom.us/my/lhg9793
+	redir https://rit.zoom.us/my/lhg9793 permanent
 }
