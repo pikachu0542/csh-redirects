@@ -39,10 +39,6 @@ insights.csh.rit.edu {
 	redir http://csh.rit.edu/insights.html permanent
 }
 
-membershipagreement.csh.rit.edu {
-	redir https://csh.rit.edu/~chef/membershipagreement.pdf permanent
-}
-
 merch.csh.rit.edu {
 	redir https://campusgroups.rit.edu/store?store_id=3173 permanent
 }
