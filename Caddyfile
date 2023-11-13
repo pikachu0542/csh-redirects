@@ -44,7 +44,7 @@ http://merch.csh.rit.edu {
 }
 
 http://opcommathon.csh.rit.edu {
-    reverse_proxy https://members.csh.rit.edu/~skyz/opcommathon23.pdf
+    redir https://members.csh.rit.edu/~skyz/opcommathon23.pdf permanent
 }
 
 http://segfault.csh.rit.edu {
