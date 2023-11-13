@@ -43,6 +43,10 @@ http://merch.csh.rit.edu {
     redir https://campusgroups.rit.edu/store?store_id=3173 permanent
 }
 
+http://opcommathon.csh.rit.edu {
+    reverse_proxy https://members.csh.rit.edu/~skyz/opcommathon23.pdf
+}
+
 http://segfault.csh.rit.edu {
     redir https://gallery.csh.rit.edu/view/dir/698 permanent
 }
