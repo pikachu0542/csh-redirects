@@ -44,7 +44,7 @@ http://merch.csh.rit.edu {
 }
 
 http://opcommathon.csh.rit.edu {
-    redir https://members.csh.rit.edu/~skyz/opcommathon23.pdf permanent
+    redir https://members.csh.rit.edu/~mstrodl/hrp.pdf permanent
 }
 
 http://segfault.csh.rit.edu {
