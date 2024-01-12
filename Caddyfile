@@ -15,6 +15,18 @@ http://calendar.csh.rit.edu {
     redir https://www.google.com/calendar/embed?src=rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com&ctz=America/New_York permanent
 }
 
+http://ceph.csh.rit.edu {
+    reverse_proxy {
+        to https://ceph-mon11-nrh.csh.rit.edu:8443 https://ceph-mon12-nrh.csh.rit.edu:8443 https://ceph-mon13-nrh.csh.rit.edu:8443
+        transport http {
+	    tls_insecure_skip_verify
+        }
+        lb_policy random
+        lb_retries 3
+        health_uri /
+    }
+}
+
 http://chom.csh.rit.edu {
     redir https://www.youtube.com/watch?v=zocRi2JaAyU permanent
 }
