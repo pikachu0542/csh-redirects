@@ -40,7 +40,7 @@ http://enforcement.csh.rit.edu, http://enforcementguidelines.csh.rit.edu {
 }
 
 http://hss.csh.rit.edu {
-    redir https://docs.google.com/presentation/d/1LakYFVz0EB6d5wRnC1zgDWru1Q5nK-BQJTyv3h8Al0Q/edit?usp=sharing permanent
+    redir https://docs.google.com/presentation/d/1RPrIwa7Eka0RkVyhetd14gqrtcprehyBaDaAE9x-ouw/edit?usp=sharing permanent
 }
 
 http://imps.csh.rit.edu {
