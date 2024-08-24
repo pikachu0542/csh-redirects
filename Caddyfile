@@ -17,7 +17,7 @@ http://calendar.csh.rit.edu {
 
 http://ceph.csh.rit.edu {
     reverse_proxy {
-        to https://ceph-mon11-nrh.csh.rit.edu:8443 https://ceph-mon12-nrh.csh.rit.edu:8443 https://ceph-mon13-nrh.csh.rit.edu:8443
+        to https://ceph-mon01-nrh.csh.rit.edu:8443 https://ceph-mon02-nrh.csh.rit.edu:8443 https://ceph-mon03-nrh.csh.rit.edu:8443
         transport http {
 	    tls_insecure_skip_verify
         }
