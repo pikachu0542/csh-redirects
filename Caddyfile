@@ -7,7 +7,7 @@ http://alumnimap.csh.rit.edu {
     redir https://members.csh.rit.edu/~bencentra/alumni-map{uri} permanent
 }
 
-http://application.csh.rit.edu {
+http://application.csh.rit.edu, http://apply.csh.rit.edu {
     redir https://docs.google.com/document/d/1nIZote5v8hvhJ16IlCHA3N_44hr5FnVCP5vO4WqgWSo/edit?usp=sharing permanent
 }
 
