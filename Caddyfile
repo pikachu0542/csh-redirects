@@ -3,9 +3,10 @@
 	auto_https off
 }
 
-http://alumnimap.csh.rit.edu {
-    redir https://members.csh.rit.edu/~bencentra/alumni-map{uri} permanent
-}
+#It's just a sourcefile... 
+#http://alumnimap.csh.rit.edu {
+#    redir https://members.csh.rit.edu/~bencentra/alumni-map{uri} permanent
+#}
 
 http://application.csh.rit.edu, http://apply.csh.rit.edu {
     redir https://docs.google.com/document/d/1nIZote5v8hvhJ16IlCHA3N_44hr5FnVCP5vO4WqgWSo/edit?usp=sharing permanent
@@ -32,7 +33,7 @@ http://chom.csh.rit.edu {
 }
 
 http://donate.csh.rit.edu {
-    redir https://securelb.imodules.com/s/1624/index-giving.aspx?sid=1624&gid=1&pgid=705&cid=1466&fid=1466&gfid=800&bledit=1&dids=169 permanent
+    redir https://www.rit.edu/giving/ComputerScienceHouse permanent
 }
 
 http://enforcement.csh.rit.edu, http://enforcementguidelines.csh.rit.edu {
@@ -45,10 +46,6 @@ http://hss.csh.rit.edu {
 
 http://imps.csh.rit.edu {
     redir https://docs.google.com/spreadsheets/d/1JG2NbeU3tFX_eyU8ttWFVy41CNyUJmZps_obGilS5a0 permanent
-}
-
-http://insights.csh.rit.edu {
-    redir http://csh.rit.edu/insights.html permanent
 }
 
 http://merch.csh.rit.edu {
