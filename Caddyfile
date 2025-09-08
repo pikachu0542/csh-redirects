@@ -48,6 +48,10 @@ http://imps.csh.rit.edu {
     redir https://docs.google.com/spreadsheets/d/1JG2NbeU3tFX_eyU8ttWFVy41CNyUJmZps_obGilS5a0 permanent
 }
 
+http://introprocess.csh.rit.edu {
+	redir https://docs.google.com/presentation/d/1bGLX73PvPieuZrjWQnKn8U0tU-p7ga2dPjSEubSxfD4 permanent
+}
+
 http://merch.csh.rit.edu {
     redir https://campusgroups.rit.edu/store?store_id=3173 permanent
 }
