@@ -79,3 +79,7 @@ http://zoom.csh.rit.edu {
 http://relay.csh.rit.edu {
     redir http://main.acsevents.org/site/TR?team_id=2734076&pg=team&fr_id=107231&s_locale=en_US&et=yT1GZzTwT_CSAuxP2wF2_q8xYRvv3TkovL0YIqZ0DGm9eoSK_7lGYA&s_tafId=2505960 permanent
 }
+
+http://attendance.csh.rit.edu {
+	redir https://conditional.csh.rit.edu/attendance_cm permanent
+}
